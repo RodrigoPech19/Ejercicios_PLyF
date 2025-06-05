@@ -1,0 +1,15 @@
+Diagnóstico completo de una parcela:
+diagnostico_parcela(parcela1).
+diagnostico_parcela(parcela2).
+diagnostico_parcela(parcela3).
+
+Consultar si el riego está activado:
+estado_riego(parcela1, Estado).
+
+Ver si hay alerta de calor:
+alerta_calor(parcela1).
+
+Ejecutar recomendación directamente:
+recomendacion(parcela1).
+
+
